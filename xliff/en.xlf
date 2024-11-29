@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+<file target-language="en" source-language="en" original="lit-localize-inputs" datatype="plaintext">
+<body>
+<trans-unit id="s2ceb11be2290bb1b">
+  <source>Cancel</source>
+</trans-unit>
+<trans-unit id="sb85774dc5d18ff0f">
+  <source>Confirm</source>
+</trans-unit>
+<trans-unit id="s61b8861b5836452e">
+  <source>Search employees...</source>
+</trans-unit>
+<trans-unit id="s3d9ff57b4e7cc370">
+  <source>Table View</source>
+</trans-unit>
+<trans-unit id="s70315aaffba9e636">
+  <source>List View</source>
+</trans-unit>
+<trans-unit id="s2c57913ffd36d298">
+  <source>First Name</source>
+</trans-unit>
+<trans-unit id="s95a75a2392af5780">
+  <source>Last Name</source>
+</trans-unit>
+<trans-unit id="s1e45a4d7635fbda7">
+  <source>Department</source>
+</trans-unit>
+<trans-unit id="sc1611c0558728a2a">
+  <source>Position</source>
+</trans-unit>
+<trans-unit id="s8af61807443f32a4">
+  <source>Actions</source>
+</trans-unit>
+<trans-unit id="s64ef2a6c2dd1d3d1">
+  <source>Edit</source>
+</trans-unit>
+<trans-unit id="sdc673e73b5c13aea">
+  <source>Delete</source>
+</trans-unit>
+<trans-unit id="sb15e48a6ab4e4c27">
+  <source>Are you sure you want to delete this employee?</source>
+</trans-unit>
+<trans-unit id="sc8306ad1a022ddcc">
+  <source>Update Employee</source>
+</trans-unit>
+<trans-unit id="s32c9b3dd030fc24c">
+  <source>Add Employee</source>
+</trans-unit>
+<trans-unit id="s772528836550622c">
+  <source>Date of Employment</source>
+</trans-unit>
+<trans-unit id="s53802e3f37d072a7">
+  <source>Date of Birth</source>
+</trans-unit>
+<trans-unit id="s871b1fe6d1846958">
+  <source>Phone Number</source>
+</trans-unit>
+<trans-unit id="s1e2e135dac5ba993">
+  <source>Email Address</source>
+</trans-unit>
+<trans-unit id="sa5ef04674280b406">
+  <source>dept</source>
+</trans-unit>
+<trans-unit id="s2c2b04f2561a1d4b">
+  <source>Analytics</source>
+</trans-unit>
+<trans-unit id="s24aadbfb1b1a1a11">
+  <source>Tech</source>
+</trans-unit>
+<trans-unit id="s7404d9208a486318">
+  <source>Junior</source>
+</trans-unit>
+<trans-unit id="sacc4d771f79ccced">
+  <source>Medior</source>
+</trans-unit>
+<trans-unit id="s8a37652cc28d3c55">
+  <source>Senior</source>
+</trans-unit>
+<trans-unit id="s779b5b19564f3469">
+  <source>pos</source>
+</trans-unit>
+<trans-unit id="s8b0432eecbd8b034">
+  <source>Update</source>
+</trans-unit>
+<trans-unit id="sf9aee319a006c9b4">
+  <source>Add</source>
+</trans-unit>
+<trans-unit id="s9145aa93cf917ae4">
+  <source>Please enter a valid email address</source>
+</trans-unit>
+<trans-unit id="s10d5dcb579de9fd6">
+  <source>Please enter a valid 10-digit phone number</source>
+</trans-unit>
+<trans-unit id="se088ef31cdd654bb">
+  <source>Employee must be between 18 and 70 years old</source>
+</trans-unit>
+<trans-unit id="s54866c776fdee066">
+  <source>Employment date cannot be in the future</source>
+</trans-unit>
+<trans-unit id="s77fec0523d866299">
+  <source>Are you sure you want to update this employee?</source>
+</trans-unit>
+<trans-unit id="se7b2b5e2255d47f1">
+  <source>Are you sure you want to add this employee?</source>
+</trans-unit>
+</body>
+</file>
+</xliff>
